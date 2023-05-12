@@ -1,0 +1,6 @@
+- debug:
+    msg: "Hello form Ubuntu"
+- name: Install apache httpd  
+  apt:
+    name: apache2
+    state: present
