@@ -1,0 +1,8 @@
+    [web]
+
+    master ansible_host=147.182.177.20
+    worker ansible_host=104.248.59.231
+
+    worker2 ansible_host=18.207.118.113 ansible_user=ec2-user
+    worker3 ansible_host=3.91.9.68 ansible_user=ec2-user
+    worker4 ansible_host=35.184.199.176 ansible_user=nurbekovnursultan
